@@ -18,5 +18,7 @@ example:
 Then run kboing in one-shot mode, to fire in a stimulus to start messages
 boinging around.
 
+	./kboing -start
+
 To trigger an exponential explosion of messages, use -flood with a percentage
 of 3 or so.
